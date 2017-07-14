@@ -1,7 +1,4 @@
-body{
-  /*background-color: yellow;*/
 
-}
 
 h1{
   width: 20em;
@@ -10,7 +7,6 @@ h1{
 }
 
 table{
-  /*border: 2px solid black;*/
   height: 25em;
   width: 25em;
   border-collapse: collapse;
@@ -21,15 +17,6 @@ td{
   border: .5px solid white;
   background-color: rgb(51,172,47);
 }
-
-.Empty{
-  border-right: none;
-}
-
-.Func{
-  background-color: rgb(89,179,85);
-}
-
 
 button{
   background-color: rgb(51,172,47);
